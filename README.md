@@ -1,4 +1,4 @@
-# Image Processing Projects
+# Image Processing Tutorial
 
 Welcome to my **Image Processing Projects** repository! This collection demonstrates a wide range of image processing techniques and applications using Python and OpenCV. It is inspired by the exceptional **[WS CUBE TECH OpenCV Full Course](https://youtu.be/MVkny_XLK_U?si=hcJo96MTpTaD0C06)** on YouTube, a 14+ hour tutorial covering everything from the basics of OpenCV to advanced concepts in computer vision.
 
