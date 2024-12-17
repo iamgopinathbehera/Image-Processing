@@ -80,22 +80,25 @@ Key Functions: cv2.setMouseCallback(), cv2.getTrackbarPos()
 🎓 Tutorial Breakdown
 Here’s a detailed breakdown of the topics and timestamps from the WS CUBE TECH tutorial:
 
-Timestamp	Topic
-00:00:00	Introduction
-00:10:24	OpenCV Basics
-01:00:00	Read and Show Image (imread, imshow)
-02:35:10	Edge Detection
-03:29:00	Play a Video
-03:57:56	Morphological Operations
-04:54:48	Background Subtraction
-05:24:52	Crop Images
-06:31:08	Flip, Rotate, & Transpose
-07:43:00	Otsu’s Binarization Threshold
-08:49:18	Image Contours
-10:06:51	Hough Transformation Lines
-12:15:15	Face Detection using Haar Cascade
-13:33:49	MediaPipe (Face and Hand Tracking)
-For the complete breakdown, refer to the tutorial.
+| **Timestamp** | **Topic**                                      |
+|---------------|-----------------------------------------------|
+| 00:00:00      | Introduction                                  |
+| 00:10:24      | OpenCV Basics                                 |
+| 01:00:00      | Read and Show Image (`imread`, `imshow`)      |
+| 02:35:10      | Edge Detection                                |
+| 03:29:00      | Play a Video                                  |
+| 03:57:56      | Morphological Operations                      |
+| 04:54:48      | Background Subtraction                        |
+| 05:24:52      | Crop Images                                   |
+| 06:31:08      | Flip, Rotate, & Transpose                    |
+| 07:43:00      | Otsu’s Binarization Threshold                 |
+| 08:49:18      | Image Contours                                |
+| 10:06:51      | Hough Transformation Lines                   |
+| 12:15:15      | Face Detection using Haar Cascade             |
+| 13:33:49      | MediaPipe (Face and Hand Tracking)            |
+
+For the complete breakdown, refer to the [tutorial](https://youtu.be/MVkny_XLK_U?si=hcJo96MTpTaD0C06).
+
 
 🙏 Acknowledgments
 I’d like to express my gratitude to WS CUBE TECH for their excellent OpenCV tutorial. Their efforts have significantly contributed to my learning journey.
